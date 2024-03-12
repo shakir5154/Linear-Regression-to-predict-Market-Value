@@ -56,5 +56,5 @@ Comparing the popularity of the EPL with other leagues, utilizing the developed 
 
 ## Conclusion
 
-This README provides an overview of the EPL Analysis project, summarizing its objectives, data sources, scraping techniques, and key findings. For more details, refer to the project's documentation and code files.
+This README provides an overview of the EPL Analysis project, summarizing its objectives, data sources, and key findings. For more details, refer to the project's documentation and code files.
 
