@@ -6,13 +6,9 @@ The aim of this project is to explore the potential relationship between a footb
 
 ## Data Sources
 
-The dataset for this project has been scraped from various sources, including transfermrkt.com and Fantasy Premier League (FPL). It includes information about all players listed on the FPL site for each team, along with their corresponding market values. Notably, players without a market value on transfermrkt.com, such as Scott McTominay, are excluded from the dataset.
+The dataset for this project has been taken from the Kaggle. It includes information about all players listed on the FPL site for each team, along with their corresponding market values. Notably, players without a market value on transfermrkt.com, such as Scott McTominay, are excluded from the dataset.
 
 The dataset is comprehensive, covering all players competing in the Premier League during the 17/18 season. The data is confirmed until roughly 20th July, including some new transfers.
-
-## Data Scraping Techniques
-
-The scraping process utilized a combination of RVest and Selenium. RVest is employed for web scraping, while Selenium is used for dynamic web content that cannot be easily accessed through traditional web scraping techniques. For a detailed look at the scraping process, refer to the [project's scraping documentation](https://github.com/shubham-maurya/epl-data-scraping).
 
 ## Preliminary Analysis
 
